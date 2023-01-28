@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/OmarAouini/thomomys/pkg/utilities"
+	"github.com/OmarAouini/thomomys/utilities"
 	"gopkg.in/yaml.v3"
 )
 
