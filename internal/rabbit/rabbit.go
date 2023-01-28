@@ -1,5 +1,7 @@
 package rabbit
 
-func InitRabbit() {
+import "log"
 
+func InitRabbit() {
+	log.Println("")
 }
